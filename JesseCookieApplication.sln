@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JesseCookieApplication", "JesseCookieApplication\JesseCookieApplication.csproj", "{BBDBD084-0C93-4635-B491-677E5C5D11FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitCookieTests", "NUnitCookieTests\NUnitCookieTests.csproj", "{A91D0FC3-AFB0-4CAB-AD67-60132D832E8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBDBD084-0C93-4635-B491-677E5C5D11FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDBD084-0C93-4635-B491-677E5C5D11FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDBD084-0C93-4635-B491-677E5C5D11FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDBD084-0C93-4635-B491-677E5C5D11FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91D0FC3-AFB0-4CAB-AD67-60132D832E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91D0FC3-AFB0-4CAB-AD67-60132D832E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91D0FC3-AFB0-4CAB-AD67-60132D832E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91D0FC3-AFB0-4CAB-AD67-60132D832E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B71BF40-5FA5-4B90-9958-97B3ACFF3C85}
+	EndGlobalSection
+EndGlobal
